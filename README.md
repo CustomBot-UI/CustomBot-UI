@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CustomBot-UI</h1>
-<h3 align="center">A passionate frontend developer from Paksitan</h3>
+<h3 align="center">A passionate frontend and backend developer from Paksitan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=custombot-ui&label=Profile%20views&color=0e75b6&style=flat" alt="custombot-ui" /> </p>
 
