@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=custombot-ui&label=Profile%20views&color=0e75b6&style=flat" alt="custombot-ui" /> </p>
 
-[![custombot-ui's Stats](https://github-readme-stats.vercel.app/api?username=custombot-ui&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[[![custombot-ui's Stats](https://github-readme-stats.vercel.app/api?username=custombot-ui&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers)
 
 
 - 🔭 I’m currently working on **AI & ML**
