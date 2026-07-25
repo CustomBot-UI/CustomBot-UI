@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=custombot-ui&label=Profile%20views&color=0e75b6&style=flat" alt="custombot-ui" /> </p>
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical
+[![trophy](https://your-custom-name.vercel.app/?username=custombot-ui)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 🔭 I’m currently working on **AI & ML**
