@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=custombot-ui&show_icons=true&locale=en" alt="custombot-ui" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=custombot-ui&" alt="custombot-ui" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=custombot-ui&" alt="custombot-ui"](https://streak-stats.demolab.com?user=CustomBot-UI/></p>
