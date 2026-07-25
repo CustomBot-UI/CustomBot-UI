@@ -94,7 +94,6 @@ Artificial Intelligence Student • Frontend Developer • Machine Learning Enth
 </p>
 
 ---
-<img src="https://skillicons.dev/icons?i=python,javascript,cpp,cs,html,css,react,nodejs,mysql,opencv,git,github,vscode,figma,unity" />
-<p align="center">
+
 ⭐ Thanks for visiting my profile! ⭐
 </p>
